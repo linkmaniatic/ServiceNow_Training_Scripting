@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mac_address" label="MAC Address" language="en" table="x_164970_testing_testing_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mac_address</element>
+            <help/>
+            <hint/>
+            <label>MAC Address</label>
+            <language>en</language>
+            <name>x_164970_testing_testing_table</name>
+            <plural>MAC Addresses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 18:06:51</sys_created_on>
+            <sys_id>cd20e3cfdb9133006574d1b1ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MAC Address</sys_name>
+            <sys_package display_value="Testing" source="x_164970_testing">5caf978bdb5133006574d1b1ca961954</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testing">5caf978bdb5133006574d1b1ca961954</sys_scope>
+            <sys_update_name>sys_documentation_x_164970_testing_testing_table_mac_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 18:06:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 18:06:50</sys_created_on>
+        <sys_id>fc20e3cfdb9133006574d1b1ca961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_164970_testing_testing_table.x_164970_testing.testing_table_user</sys_name>
+        <sys_package display_value="Testing" source="x_164970_testing">5caf978bdb5133006574d1b1ca961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing">5caf978bdb5133006574d1b1ca961954</sys_scope>
+        <sys_security_acl display_value="x_164970_testing_testing_table">fc20e3cfdb9133006574d1b1ca961982</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fc20e3cfdb9133006574d1b1ca961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 18:06:50</sys_updated_on>
+        <sys_user_role display_value="x_164970_testing.testing_table_user" name="x_164970_testing.testing_table_user">2c20274fdb9133006574d1b1ca961959</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
